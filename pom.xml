@@ -9,7 +9,7 @@
 
 	<properties>
 		<springframework.version>6.1.14</springframework.version>
-		<log4j.version>2.25.4</log4j.version>
+		<log4j.version>2.25.5</log4j.version>
 		<lombok.version>1.18.4</lombok.version>
 		<modelmapper.version>2.3.6</modelmapper.version>
 		<jackson-databind.version>2.18.9</jackson-databind.version>
